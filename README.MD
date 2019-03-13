@@ -2,3 +2,4 @@ This D3 visualization was developed on September 2017, it was the first homework
 
 http://people.ischool.berkeley.edu/~zenla/dashboard.html
 
+<img src="dashboard.png" />
